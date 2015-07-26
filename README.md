@@ -10,3 +10,8 @@
 4. Appropriately labels the data set with descriptive variable names. 
 
 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
+
+#### Codebook
+The variable names are the intersection between the activity and subject number. For example, "WALKING.7" is the data associated with Subject 7 when performing the WALKING activity.
+
+The row names describe the type of measurement, whether it's the mean of std, and which axis the measurement is in.
